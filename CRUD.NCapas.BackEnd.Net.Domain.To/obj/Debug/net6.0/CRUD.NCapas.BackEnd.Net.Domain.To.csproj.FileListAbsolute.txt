@@ -1,0 +1,12 @@
+C:\Proyectos\CRUD\CRUD.NCapas.BackEnd.Net\CRUD.NCapas.BackEnd.Net.Domain.To\bin\Debug\net6.0\CRUD.NCapas.BackEnd.Net.Domain.To.deps.json
+C:\Proyectos\CRUD\CRUD.NCapas.BackEnd.Net\CRUD.NCapas.BackEnd.Net.Domain.To\bin\Debug\net6.0\CRUD.NCapas.BackEnd.Net.Domain.To.dll
+C:\Proyectos\CRUD\CRUD.NCapas.BackEnd.Net\CRUD.NCapas.BackEnd.Net.Domain.To\bin\Debug\net6.0\CRUD.NCapas.BackEnd.Net.Domain.To.pdb
+C:\Proyectos\CRUD\CRUD.NCapas.BackEnd.Net\CRUD.NCapas.BackEnd.Net.Domain.To\obj\Debug\net6.0\CRUD.NCapas.BackEnd.Net.Domain.To.csproj.AssemblyReference.cache
+C:\Proyectos\CRUD\CRUD.NCapas.BackEnd.Net\CRUD.NCapas.BackEnd.Net.Domain.To\obj\Debug\net6.0\CRUD.NCapas.BackEnd.Net.Domain.To.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\CRUD\CRUD.NCapas.BackEnd.Net\CRUD.NCapas.BackEnd.Net.Domain.To\obj\Debug\net6.0\CRUD.NCapas.BackEnd.Net.Domain.To.AssemblyInfoInputs.cache
+C:\Proyectos\CRUD\CRUD.NCapas.BackEnd.Net\CRUD.NCapas.BackEnd.Net.Domain.To\obj\Debug\net6.0\CRUD.NCapas.BackEnd.Net.Domain.To.AssemblyInfo.cs
+C:\Proyectos\CRUD\CRUD.NCapas.BackEnd.Net\CRUD.NCapas.BackEnd.Net.Domain.To\obj\Debug\net6.0\CRUD.NCapas.BackEnd.Net.Domain.To.csproj.CoreCompileInputs.cache
+C:\Proyectos\CRUD\CRUD.NCapas.BackEnd.Net\CRUD.NCapas.BackEnd.Net.Domain.To\obj\Debug\net6.0\CRUD.NCapas.BackEnd.Net.Domain.To.dll
+C:\Proyectos\CRUD\CRUD.NCapas.BackEnd.Net\CRUD.NCapas.BackEnd.Net.Domain.To\obj\Debug\net6.0\refint\CRUD.NCapas.BackEnd.Net.Domain.To.dll
+C:\Proyectos\CRUD\CRUD.NCapas.BackEnd.Net\CRUD.NCapas.BackEnd.Net.Domain.To\obj\Debug\net6.0\CRUD.NCapas.BackEnd.Net.Domain.To.pdb
+C:\Proyectos\CRUD\CRUD.NCapas.BackEnd.Net\CRUD.NCapas.BackEnd.Net.Domain.To\obj\Debug\net6.0\ref\CRUD.NCapas.BackEnd.Net.Domain.To.dll

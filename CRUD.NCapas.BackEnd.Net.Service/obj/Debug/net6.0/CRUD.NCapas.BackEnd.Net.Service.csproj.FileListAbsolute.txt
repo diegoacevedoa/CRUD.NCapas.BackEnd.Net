@@ -1,0 +1,17 @@
+C:\Proyectos\CRUD\CRUD.NCapas.BackEnd.Net\CRUD.NCapas.BackEnd.Net.Service\bin\Debug\net6.0\CRUD.NCapas.BackEnd.Net.Service.deps.json
+C:\Proyectos\CRUD\CRUD.NCapas.BackEnd.Net\CRUD.NCapas.BackEnd.Net.Service\bin\Debug\net6.0\CRUD.NCapas.BackEnd.Net.Service.dll
+C:\Proyectos\CRUD\CRUD.NCapas.BackEnd.Net\CRUD.NCapas.BackEnd.Net.Service\bin\Debug\net6.0\CRUD.NCapas.BackEnd.Net.Service.pdb
+C:\Proyectos\CRUD\CRUD.NCapas.BackEnd.Net\CRUD.NCapas.BackEnd.Net.Service\bin\Debug\net6.0\CRUD.NCapas.BackEnd.Net.Data.dll
+C:\Proyectos\CRUD\CRUD.NCapas.BackEnd.Net\CRUD.NCapas.BackEnd.Net.Service\bin\Debug\net6.0\CRUD.NCapas.BackEnd.Net.Domain.To.dll
+C:\Proyectos\CRUD\CRUD.NCapas.BackEnd.Net\CRUD.NCapas.BackEnd.Net.Service\bin\Debug\net6.0\CRUD.NCapas.BackEnd.Net.Data.pdb
+C:\Proyectos\CRUD\CRUD.NCapas.BackEnd.Net\CRUD.NCapas.BackEnd.Net.Service\bin\Debug\net6.0\CRUD.NCapas.BackEnd.Net.Domain.To.pdb
+C:\Proyectos\CRUD\CRUD.NCapas.BackEnd.Net\CRUD.NCapas.BackEnd.Net.Service\obj\Debug\net6.0\CRUD.NCapas.BackEnd.Net.Service.csproj.AssemblyReference.cache
+C:\Proyectos\CRUD\CRUD.NCapas.BackEnd.Net\CRUD.NCapas.BackEnd.Net.Service\obj\Debug\net6.0\CRUD.NCapas.BackEnd.Net.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\CRUD\CRUD.NCapas.BackEnd.Net\CRUD.NCapas.BackEnd.Net.Service\obj\Debug\net6.0\CRUD.NCapas.BackEnd.Net.Service.AssemblyInfoInputs.cache
+C:\Proyectos\CRUD\CRUD.NCapas.BackEnd.Net\CRUD.NCapas.BackEnd.Net.Service\obj\Debug\net6.0\CRUD.NCapas.BackEnd.Net.Service.AssemblyInfo.cs
+C:\Proyectos\CRUD\CRUD.NCapas.BackEnd.Net\CRUD.NCapas.BackEnd.Net.Service\obj\Debug\net6.0\CRUD.NCapas.BackEnd.Net.Service.csproj.CoreCompileInputs.cache
+C:\Proyectos\CRUD\CRUD.NCapas.BackEnd.Net\CRUD.NCapas.BackEnd.Net.Service\obj\Debug\net6.0\CRUD.NCapas.BackEnd.Net.Service.csproj.CopyComplete
+C:\Proyectos\CRUD\CRUD.NCapas.BackEnd.Net\CRUD.NCapas.BackEnd.Net.Service\obj\Debug\net6.0\CRUD.NCapas.BackEnd.Net.Service.dll
+C:\Proyectos\CRUD\CRUD.NCapas.BackEnd.Net\CRUD.NCapas.BackEnd.Net.Service\obj\Debug\net6.0\refint\CRUD.NCapas.BackEnd.Net.Service.dll
+C:\Proyectos\CRUD\CRUD.NCapas.BackEnd.Net\CRUD.NCapas.BackEnd.Net.Service\obj\Debug\net6.0\CRUD.NCapas.BackEnd.Net.Service.pdb
+C:\Proyectos\CRUD\CRUD.NCapas.BackEnd.Net\CRUD.NCapas.BackEnd.Net.Service\obj\Debug\net6.0\ref\CRUD.NCapas.BackEnd.Net.Service.dll
